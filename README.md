@@ -1,7 +1,7 @@
 # DevOps Project Report: Automated CI/CD Pipeline for a 2-Tier Flask Application on AWS
 
 **Author:** Manish Kumar
-**Date:** 30-04-2026
+**Date:** 07-04-2026
 
 ---
 
