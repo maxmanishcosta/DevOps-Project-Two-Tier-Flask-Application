@@ -103,7 +103,7 @@ This document outlines the step-by-step process for deploying a 2-tier web appli
     sudo systemctl enable docker
     ```
 
-4.  **Add User to Docker Group (to run docker without sudo):**
+4.  **Add User to Docker Group (to run Docker without sudo):**
     ```bash
     sudo usermod -aG docker $USER
     newgrp docker
